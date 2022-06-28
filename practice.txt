@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Review of India vs New Zeland World Cup 2019 </title>
+</head>
+<body>
+<table>
+<p style="color:Deeppink;">This table shows the scorecard of ind vs new zealand world cup 2019</p>
+<img src="http://www.thoughtsnmore.com/wp-content/uploads/2015/08/india-flag-a4.jpg" width="90px">                     298/8
+
+
+</body>
+</html>
